@@ -1,0 +1,3 @@
+- [x] Upload multiple clustering benchmarks: flower dataset and Stanford_Cars dataset
+- [x] Upload a demo of clustering from lightweight clustering heads with embeddings
+- [ ] Upload full code with LLaVA-v1.5 model
